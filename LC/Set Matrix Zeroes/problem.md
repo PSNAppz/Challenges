@@ -4,6 +4,8 @@
 Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's.
 
 You must do it in place.
+
+Example 1
 ![Example 1](https://assets.leetcode.com/uploads/2020/08/17/mat1.jpg)
 
 Constraints:
